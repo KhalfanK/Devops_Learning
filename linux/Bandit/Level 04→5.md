@@ -47,19 +47,14 @@ The `file` command outputs the type of a file, `./*` tells the shell that you wa
 
 This level taught me about file types and how they make it easier to distinguish the contents of a file without actually printing them to `stdout`. Another big thing I learnt was wildcards and how much easier they make your life. I can already see how often they'll come up as I go further into Linux.
 
-Common wildcards in bash:
+|Common wildcards in bash:|
+|-------------------------|
+|`*` — matches any number of characters (including none)|
+|`?` — matches exactly one character|
+|`[abc]` — matches any one character listed inside the brackets|
+|`[a-z]` — matches any one character in that range|
+|`[!abc]` — matches any character not in the brackets|
 
-`*` — matches any number of characters (including none)
-`?` — matches exactly one character
-`[abc]` — matches any one character listed inside the brackets
-`[a-z]` — matches any one character in that range
-`[!abc]` — matches any character not in the brackets
-
-So for example:
-
-`file*` — matches file1, filename, file itself
-`file?` — matches file1, fileA but not file12
-`file[0-9]` — matches file0 through file9 only
 
 
 

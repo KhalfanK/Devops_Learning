@@ -15,16 +15,16 @@ Bandit is a wargame hosted by [OverTheWire](https://overthewire.org/wargames/ban
 | Level | Topic |
 |-------|-------|
 | [Level 0](./Level%200.md) | SSH Login |
-| [Level 0→1](./Level%200→1.md) | Special Character Filenames |
-| [Level 1→2](./Level%201→2.md) | Filenames with Spaces |
-| [Level 2→3](./Level%202→3.md) | Hidden Files |
-| [Level 3→4](./Level%203→4.md) | File Types |
-| [Level 4→5](./Level%204→5.md) | File Types |
-| [Level 5→6](./Level%205→6.md) | Searching by File Properties |
-| [Level 6→7](./Level%206→7.md) | Searching by File Properties pt.2 |
-| [Level 7→8](./Level%207→8.md) | Searching using Grep |
-| [Level 8→9](./Level%208→9.md) | Counting Lines |
-| [Level 9→10](./Level%209→10.md) | Human Readable Strings |
+| [Level 0→1](./Level%2000→1.md) | Special Character Filenames |
+| [Level 1→2](./Level%2001→2.md) | Filenames with Spaces |
+| [Level 2→3](./Level%2002→3.md) | Hidden Files |
+| [Level 3→4](./Level%2003→4.md) | File Types |
+| [Level 4→5](./Level%2004→5.md) | File Types |
+| [Level 5→6](./Level%2005→6.md) | Searching by File Properties |
+| [Level 6→7](./Level%2006→7.md) | Searching by File Properties pt.2 |
+| [Level 7→8](./Level%2007→8.md) | Searching using Grep |
+| [Level 8→9](./Level%2008→9.md) | Counting Lines |
+| [Level 9→10](./Level%2009→10.md) | Human Readable Strings |
 | [Level 10→11](./Level%2010→11.md) | Base64 Decoding |
 | [Level 11→12](./Level%2011→12.md) | ROT13 |
 | [Level 12→13](./Level%2012→13.md) | Hexdump and Decompression |

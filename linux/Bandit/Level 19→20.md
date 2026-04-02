@@ -35,7 +35,7 @@ So we run the executable `./bandit20-do` to `cat /etc/bandit_pass/bandit20` whic
 
 ## **Reflections:**
 
-This level introduced `setuid`, a **permission bit** in Unix-like systems that allows a user to run an executable with the permissions of the file's owner rather than their own. It's a powerful feature, but worth knowing that misconfigured setuid binaries are a common vector for privilege escalation attacks, where an attacker exploits elevated permissions to gain access they shouldn't have. A small misconfiguration at this level, and suddenly someone who isn't bandit20... is.
-And on that note — that's level 20 done.
+This level introduced `setuid`, a **permission bit** in Unix-like systems that allows a user to run an executable with the permissions of the file's owner rather than their own. It's a powerful feature, but worth knowing that misconfigured `setuid binaries are a common vector for privilege escalation attacks, where an attacker exploits elevated permissions to gain access they shouldn't have. A small misconfiguration at this level, and suddenly someone who isn't bandit20... is.
+And on that note, that's level 20 done.
 
 

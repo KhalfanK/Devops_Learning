@@ -1,4 +1,4 @@
-# Bandit Level 14→15 - Netcat and UDP
+# Bandit Level 14→15 - Netcat and TCP
 
 
 

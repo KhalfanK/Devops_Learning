@@ -51,7 +51,7 @@ This repository will include:
 
 I’ll be covering a range of DevOps-related topics, including:
 
-- Linux  
+- [Linux](Devops_Learning/linux)
 - Bash scripting  
 - Git & version control  
 - Networking fundamentals  

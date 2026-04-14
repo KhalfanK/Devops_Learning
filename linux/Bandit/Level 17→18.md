@@ -31,7 +31,7 @@ diff passwords.old passwords.new
 
 `diff` is a useful command to find changes that have been made between files, in this case `diff passwords.old passwords.new`, looks line by line for changes between the file. There is one line that changed, therefore that is our password as specified in the challenge section.
 
-A useful thing to know is at the very beginning of the output we see `42c42'. What this means is the line number `42` in the first file has been changed `c` and corresponds to the line number `42` in the second file. If we saw `a` it would mean lines added and `d` would mean lines deleted.
+A useful thing to know is at the very beginning of the output we see `42c42`. What this means is the line number `42` in the first file has been changed `c` and corresponds to the line number `42` in the second file. If we saw `a` it would mean lines added and `d` would mean lines deleted.
 
 
 ## **Reflections:**

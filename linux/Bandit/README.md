@@ -15,10 +15,10 @@ Bandit is a wargame hosted by [OverTheWire](https://overthewire.org/wargames/ban
 | Level | Topic |
 |-------|-------|
 | [Level 0](./Level%200.md) | SSH Login |
-| [Level 0→1](./Level%2000→1.md) | Special Character Filenames |
-| [Level 1→2](./Level%2001→2.md) | Filenames with Spaces |
-| [Level 2→3](./Level%2002→3.md) | Hidden Files |
-| [Level 3→4](./Level%2003→4.md) | File Types |
+| [Level 0→1](./Level%2000→1.md) | Reading File |
+| [Level 1→2](./Level%2001→2.md) | Special Character Filenames |
+| [Level 2→3](./Level%2002→3.md) | --Spaces in this Filename-- |
+| [Level 3→4](./Level%2003→4.md) | Hidden Files |
 | [Level 4→5](./Level%2004→5.md) | File Types |
 | [Level 5→6](./Level%2005→6.md) | Searching by File Properties |
 | [Level 6→7](./Level%2006→7.md) | Searching by File Properties pt.2 |

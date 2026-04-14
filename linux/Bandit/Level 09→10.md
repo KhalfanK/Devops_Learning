@@ -1,4 +1,4 @@
-# Bandit Level 9→10 - Strings
+# Bandit Level 9→10 - Human Readable Strings
 
 
 

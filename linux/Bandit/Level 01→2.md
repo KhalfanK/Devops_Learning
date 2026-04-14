@@ -1,4 +1,4 @@
-# Bandit Level 1→2 - Reading Files with Special Names
+# Bandit Level 1→2 - Special Character Filenames
 
 
 

@@ -22,10 +22,6 @@ The goal of this repository is to:
 
 I’m transitioning into DevOps from a background in data analysis, driven by an interest in how systems are built, deployed, and maintained behind the scenes.
 
-Rather than just consuming content, I focus on:
-- Learning by doing  
-- Breaking and fixing things  
-- Understanding the “why” behind tools and concepts  
 
 ---
 
@@ -52,15 +48,14 @@ This repository will include:
 I’ll be covering a range of DevOps-related topics, including:
 
 - [Linux](./linux)
-- Bash scripting  
-- Git & version control  
-- Networking fundamentals  
+- [Bash scripting](./bash)  
+- [Git](./git)  
+- [Networking](./networking)  
 - Containers & Docker  
 - AWS (cloud computing)  
 - Infrastructure as Code (Terraform)  
 - CI/CD pipelines  
-- Kubernetes  
-- Projects  
+- Kubernetes    
 
 ---
 

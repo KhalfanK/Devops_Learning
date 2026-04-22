@@ -1,4 +1,28 @@
-# Git Internals & Core Concepts
+# Table of Contents <!-- omit in toc -->
+- [1. Introduction to Git](#1-introduction-to-git)
+  - [Git Terminology \& Key Concepts](#git-terminology--key-concepts)
+  - [The .git Directory](#the-git-directory)
+  - [Git Common Commands](#git-common-commands)
+- [2. History, Branching \& Merging](#2-history-branching--merging)
+  - [Viewing history](#viewing-history)
+  - [Git vs Github — Whats the difference?](#git-vs-github--whats-the-difference)
+  - [Branching 101](#branching-101)
+  - [Merging in Git](#merging-in-git)
+  - [Rebase vs Merge](#rebase-vs-merge)
+- [3. Advanced Git Usage](#3-advanced-git-usage)
+  - [Git Stash \& Pop](#git-stash--pop)
+  - [Reset, Revert and Cherry-Pick](#reset-revert-and-cherry-pick)
+  - [Forks \& Pull Requests](#forks--pull-requests)
+  - [Collaborating Practices](#collaborating-practices)
+  - [Typical Git Workflow](#typical-git-workflow)
+  - [Trunk-Based Devlopment](#trunk-based-devlopment)
+- [4. Git best practices](#4-git-best-practices)
+  - [Commit Hygiene \& Best Practices](#commit-hygiene--best-practices)
+  - [Pre-Commit \& Automation](#pre-commit--automation)
+  - [Common Mistakes](#common-mistakes)
+  - [Git at Scale](#git-at-scale)
+  - [Git Security \& Secrets Hygiene](#git-security--secrets-hygiene)
+# 1. Introduction to Git
 ## Git Terminology & Key Concepts
 
 
@@ -72,7 +96,7 @@ The entire rep lives here  — **`no .git, no Git.`**
 
 **`git restore`** - undo file changes(modern)
 
-# History, Branching & Merging
+# 2. History, Branching & Merging
 ## Viewing history
 
 **`git log`** : see commit history
@@ -150,7 +174,7 @@ Generic example of merging:
 
 Note: Dont `rebase` shared repo's. Can break things and cause confusion.
 
-# Advanced Git Usage
+# 3. Advanced Git Usage
 
 ## Git Stash & Pop
 
@@ -166,7 +190,7 @@ Use when switching branches mid-task
 
 Great for "I'm not ready to commit, but I need to move"
 
-## Reset, Revert and Cheery-Pick
+## Reset, Revert and Cherry-Pick
 
 |git revert|git reset|git cherry-pick|
 |----------|---------|---------------|
@@ -222,7 +246,7 @@ Workflow diagram:
 - Heavy CI/testing gates
 - Used in fast-moving orgs (e.g. Google, Facebook)
 
-# Git best practices
+# 4. Git best practices
 ## Commit Hygiene & Best Practices
 
 - Write good commit messages

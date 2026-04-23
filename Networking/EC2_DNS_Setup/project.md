@@ -2,13 +2,7 @@
 
 To consolidate my learnings on IP's, routing, DNS, ports and basic hosting. I deployed NGINX on an EC2 instance and made the page load over a domain I bought.
 
-The result can be seen on the image at the end of this document
-
-This Image below is the result, once I connected my EC2 instance running NGINX to my domain.
-
-![](../../Assets/2026-04-23-09-02-52.png)
-
-The image shows the NGINX landing page when I load the domain `kkhalfan.com` , which signalled to me that I succeded in what I set out to do.
+The result can be seen on the image at the end of this document.
 
 
 ## Step 1: Buy a Domain

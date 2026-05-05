@@ -4,7 +4,6 @@ Welcome to my DevOps learning repository.
 
 This repo documents my journey transitioning into DevOps, where I track my progress, consolidate my knowledge, and build practical, real-world skills.
 
----
 
 ## Purpose
 
@@ -16,14 +15,12 @@ The goal of this repository is to:
 - Track my progress over time  
 - Showcase my skills
 
----
 
 ## My Journey
 
 I’m transitioning into DevOps from a background in data analysis, driven by an interest in how systems are built, deployed, and maintained behind the scenes.
 
 
----
 
 ## What You’ll Find Here
 
@@ -47,11 +44,11 @@ This repository will include:
 
 I’ll be covering a range of DevOps-related topics, including:
 
-- [Linux](./linux)
-- [Bash scripting](./bash)  
-- [Git](./git)  
-- [Networking](./networking)  
-- Containers & Docker  
+- [Linux](linux/)
+- [Bash scripting](bash/)  
+- [Git](Git/)  
+- [Networking](Networking/)  
+- [Containers & Docker](Docker/)  
 - AWS (cloud computing)  
 - Infrastructure as Code (Terraform)  
 - CI/CD pipelines  

@@ -44,11 +44,11 @@ This repository will include:
 
 I’ll be covering a range of DevOps-related topics, including:
 
-- [Linux](linux/)
-- [Bash scripting](bash/)  
-- [Git](Git/)  
-- [Networking](Networking/)  
-- [Containers & Docker](Docker/)  
+- [Linux](1.Linux/)
+- [Bash scripting](2.bash/)  
+- [Git](3.Git/)  
+- [Networking](4.Networking/)  
+- [Containers & Docker](5.Docker/)  
 - AWS (cloud computing)  
 - Infrastructure as Code (Terraform)  
 - CI/CD pipelines  
